@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "last.zillow.api.call",
+  "type": "java.lang.String",
+  "description": "A description for 'last.zillow.api.call'"
+}]}
